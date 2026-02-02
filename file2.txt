@@ -1,1 +1,1 @@
-this is file 2 craeted by main branch 
+this is file 2 craeted by main branch  this is another text in the file 2 
